@@ -90,6 +90,22 @@ The final dashboard was used to identify patterns in employee attrition and work
 
 📊 Key Performance Indicators (KPIs)
 
+The HR dashboard tracks the following key metrics:
+
+• Total Employees – Total number of employees in the organization
+
+• Total Attrition – Number of employees who left the company
+
+• Attrition Rate – Percentage of employees who left the organization
+
+• Average Age – Average age of employees
+
+• Average Monthly Income – Average salary of employees
+
+• Average Years at Company – Average employee tenure
+
+These KPIs provide a quick overview of workforce stability and employee demographics.
+
 
 
 Click here to see the full Dashboard - [App_power_BI_link](
